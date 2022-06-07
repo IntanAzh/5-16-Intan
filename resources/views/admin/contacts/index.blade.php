@@ -23,6 +23,7 @@
                                                 <th>Nama</th>
                                                 <th>Email</th>
                                                 <th>Pesan</th>
+                                                <th>Aksi</th>
                                             </tr>
                                         </thead>
                                         <tbody>
